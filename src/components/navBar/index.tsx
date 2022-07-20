@@ -4,7 +4,7 @@ import { MdSmartphone, MdInfo } from "react-icons/md";
 
 // import { Container } from './styles';
 import logo from "../../assets/img/logo.svg";
-import NavItem from "./navItem";
+import NavItem from "./NavItem";
 import NavMenu from "./NavMenu";
 import NavNotifications from "./NavNotifications";
 
